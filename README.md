@@ -21,7 +21,7 @@ RedTeam - Red Team Tools
 - [ ] Develop communication plan template
 - [ ] Develop ROE template
 - [ ] Develop technical briefing template
-- [ ] Develop report template
+- [ ] Develop report template: [Diablo](https://github.com/Anlominus/Diablo)
 
 # PLANNING - RED TEAM ENGAGEMENT CHECKLIST
 - [ ] Engagement Planning
