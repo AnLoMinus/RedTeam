@@ -61,6 +61,44 @@ RedTeam - Red Team Tools
   - [ ] Deploy tools to infrastructure
 - [ ] Data collection repository
 
+
+## RED TEAM ENGAGEMENT GOAL PLANNING
+### COMMON GOALS: MEASURE AND OBSERVE ...
+- A THREAT’S ABILITY TO ACCESS TO COMMON AND RESTRICTED AREAS (PHYSICAL)
+  - What ability does a threat have to access common areas?
+  - What ability does a threat have to access restricted areas?
+  - Can a threat use access gained to enable cyber capabilities?
+  - What impacts can a threat have through gained access?
+
+- A THREAT’S ABILITY TO ACCESS KEY/CRITICAL SYSTEMS
+  - Can a threat access key/critical systems?
+  - What impacts can a threat have on key/critical systems?
+
+- A THREAT’S ABILITY TO MOVE FREELY THROUGHOUT A NETWORK
+  - What ability does a threat have to freely move throughout a network?
+
+- A THREAT’S ABILITY TO GAIN DOMAIN WIDE AND LOCAL ADMINISTRATIVE ACCESS?
+  - What ability does a threat have to gain local administrative access?
+  - What ability does a threat have to gain domain administrative access?
+  - What ability does a threat have to gain elevated access?
+
+- A THREAT’S ABILITY TO ACCESS OR IDENTIFY SENSITIVE INFORMATION
+  - What ability does a threat have to access sensitive information?
+  - What ability does a threat have to identify sensitive information?
+
+- A THREAT’S ABILITY TO EXFILTRATE DATA OUTSIDE AN ORGANIZATION
+  - What ability does a threat have to exfiltrate data outside an organization?
+  - How much data must be exfiltrated to impact an organization?
+
+- A THREAT’S ABILITY TO ACT UNDETECTED FOR A GIVEN TIME FRAME
+  - How long can a threat go undetected?
+  - Can a threat achieve its goals undetected?
+  - What must a threat do to stimulate a reaction from an organization?
+
+- A THREAT’S ABILITY TO PERFORM OPERATIONAL IMPACTS
+  - What impacts can a threat perform against an organization?
+  - How can a threat affect X?
+
 ---
 
 - Rules of Engagement (RoE)
