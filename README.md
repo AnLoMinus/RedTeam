@@ -130,12 +130,20 @@ RedTeam - Red Team Tools
   - Appendix
     - Any further information from preceding subsections	
 
+---
 
-  
+# Campaign planning 
+#### The campaign summary we will be using consists of four different plans varying in-depth and coverage adapted from military operations documents.
+
+Type of Plan	| Explanation of Plan |	Plan Contents
+---|---|---
+Engagement Plan |	An overarching description of technical requirements of the red team. | CONOPS, Resource and Personnel Requirements, Timelines
+Operations Plan	| An expansion of the Engagement Plan. Goes further into specifics of each detail. | Operators, Known Information, Responsibilities, etc.
+Mission Plan |	The exact commands to run and execution time of the engagement. | Commands to run, Time Objectives, Responsible Operator, etc.
+Remediation Plan |	Defines how the engagement will proceed after the campaign is finished. | Report, Remediation consultation, etc.
 
 
 ---
-
 
 - TryHackMe: [Red Team Engagements](https://tryhackme.com/room/redteamengagements): 
   - Learn the steps and procedures of a red team engagement, including planning, frameworks, and documentation.
