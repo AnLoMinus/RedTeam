@@ -133,7 +133,7 @@ RedTeam - Red Team Tools
 ---
 
 # Campaign planning 
-#### The campaign summary we will be using consists of four different plans varying in-depth and coverage adapted from military operations documents.
+### The campaign summary we will be using consists of four different plans varying in-depth and coverage adapted from military operations documents.
 
 Type of Plan	| Explanation of Plan |	Plan Contents
 ---|---|---
@@ -142,6 +142,12 @@ Operations Plan	| An expansion of the Engagement Plan. Goes further into specifi
 Mission Plan |	The exact commands to run and execution time of the engagement. | Commands to run, Time Objectives, Responsible Operator, etc.
 Remediation Plan |	Defines how the engagement will proceed after the campaign is finished. | Report, Remediation consultation, etc.
 
+#### Engagement Plan:
+
+Component	| Purpose
+---|---
+CONOPS (Concept of Operations) | Non-technically written overview of how the red team meets client objectives and target the client.
+Resource plan | Includes timelines and information required for the red team to be successful—any resource requirements: personnel, hardware, cloud requirements.
 
 ---
 
