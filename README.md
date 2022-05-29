@@ -19,7 +19,7 @@ RedTeam - Red Team Tools
 - [ ] Develop data collection guide and tools
 - [ ] Develop operational process plan
 - [ ] Develop communication plan template
-- [ ] Develop ROE template: 
+- [ ] Develop ROE template:  [Rules of Engagement (RoE)]()
 - [ ] Develop technical briefing template
 - [ ] Develop report template: [Diablo](https://github.com/Anlominus/Diablo)
 
