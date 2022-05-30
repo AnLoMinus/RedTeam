@@ -56,6 +56,17 @@ RedTeam - Red Team Tools
   - [ ] Cloud
   - [ ] Misc.
 
+# Mission Plan
+- [ ] Objectives:
+- [ ] Operators
+- [ ] Exploits/Attacks
+- [ ] Targets 
+  - [ ] Users:
+  - [ ] Machines:
+  - [ ] Objectives:
+- [ ] Execution plan variations
+
+
 # PLANNING - RED TEAM ENGAGEMENT CHECKLIST
 - [ ] Engagement Planning
   - [ ] ROE
