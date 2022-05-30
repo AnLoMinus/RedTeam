@@ -25,6 +25,17 @@ RedTeam - Red Team Tools
 - [ ] Develop technical briefing template
 - [ ] Develop report template: [Diablo](https://github.com/Anlominus/Diablo)
 
+# Concept of Operation (CONOPS)
+### There is not a set standard of a CONOPS document; 
+#### Below is an outline of critical components that should be included in a CONOPS
+  - [ ] Client Name
+  - [ ] Service Provider
+  - [ ] Timeframe
+  - [ ] General Objectives/Phases
+  - [ ] Other Training Objectives (Exfiltration)
+  - [ ] High-Level Tools/Techniques planned to be used
+  - [ ] Threat group to emulate (if any)
+
 # PLANNING - RED TEAM ENGAGEMENT CHECKLIST
 - [ ] Engagement Planning
   - [ ] ROE
