@@ -36,6 +36,26 @@ RedTeam - Red Team Tools
   - [ ] High-Level Tools/Techniques planned to be used
   - [ ] Threat group to emulate (if any)
 
+# Resource Plan
+- Header
+  - [ ] Personnel writing
+  - [ ] Dates
+  - [ ] Customer
+- Engagement Dates
+  - [ ] Reconnaissance Dates
+  - [ ] Initial Compromise Dates
+  - [ ] Post-Exploitation and Persistence Dates
+  - [ ] Misc. Dates
+- Knowledge Required (optional)
+  - [ ] Reconnaissance
+  - [ ] Initial Compromise
+  - [ ] Post-Exploitation
+- Resource Requirements
+  - [ ] Personnel
+  - [ ] Hardware
+  - [ ] Cloud
+  - [ ] Misc.
+
 # PLANNING - RED TEAM ENGAGEMENT CHECKLIST
 - [ ] Engagement Planning
   - [ ] ROE
