@@ -227,4 +227,6 @@ Remediation/consultation | How will the client remediate findings? It can be inc
 - TryHackMe: [Red Team Engagements](https://tryhackme.com/room/redteamengagements): 
   - Learn the steps and procedures of a red team engagement, including planning, frameworks, and documentation.
   
-  
+---
+
+![Alt](https://repobeats.axiom.co/api/embed/fd78a1ef4e01d34a2cb9c01a0b0eba5de00d556d.svg "Repobeats analytics image")
