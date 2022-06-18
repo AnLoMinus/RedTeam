@@ -7,7 +7,7 @@
 ###############################################
 # Name : Anlominus ~ KoTH ~> GiTools
 # Last UPDATE : 2022 Jun 19
-# Create Date : 2022 Jun 10
+# Create Date : 2022 Jun 19
 # Description: TryHackMe - Simple helper script for VPN, VM's, etc
 # Skils: Best Copywriter IN the COSMOS!
 # BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
