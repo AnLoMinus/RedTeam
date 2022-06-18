@@ -5,17 +5,16 @@
 #!/usr/bin/env bash
 #!/data/data/com.termux/files/usr/bin/bash
 ###############################################
-# Name : Anlominus ~ KoTH
-# Last UPDATE : 2022 Jun 13
+# Name : Anlominus ~ KoTH ~> GiTools
+# Last UPDATE : 2022 Jun 19
 # Create Date : 2022 Jun 10
 # Description: TryHackMe - Simple helper script for VPN, VM's, etc
 # Skils: Best Copywriter IN the COSMOS!
 # BIG THANX TO ALL COMUNITY THAT SHARE ALL THAT FREE GREAT SCRIPTS
 # CREDIT: To All World Creators free Scripts & Tools
 # Location: Made With LOVE IN ISRAEL !
-# Source: [ https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH ]
-# Aouther: f11snipe +~> Anlominus ~> RhytMix ~> KoTH
-# TryHackMe ~> King of The Hill: https://tryhackme.com/games/koth
+# Source: [ https://github.com/Anlominus/KoTH/GiTools ]
+# Aouther: f11snipe +~> Anlominus ~> RhytMix ~> KoTH ~> GiTools
 ###############################################
 clear
 
