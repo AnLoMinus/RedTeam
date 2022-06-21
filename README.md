@@ -231,3 +231,12 @@ Remediation/consultation | How will the client remediate findings? It can be inc
 ---
 
 ![Alt](https://repobeats.axiom.co/api/embed/fd78a1ef4e01d34a2cb9c01a0b0eba5de00d556d.svg "Repobeats analytics image")
+
+---
+
+# Tools
+## [Shr3dKit](https://github.com/shr3ddersec/Shr3dKit) Red Team Tool Kit
+> ![image](https://user-images.githubusercontent.com/51442719/174849801-19d7b9fd-6c34-4d73-84f1-9707cf639cfb.png)
+> ### This tool kit is very much influenced by infosecn1nja's kit. Use this script to grab majority of the repos.
+> #### NOTE: hard coded in /opt and made for Kali Linux
+> - #### Total Size (so far): 2.5+Gb
