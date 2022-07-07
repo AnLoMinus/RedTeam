@@ -1,5 +1,7 @@
 # [Red Hat](https://www.redhat.com/en)
 
+![image](https://user-images.githubusercontent.com/51442719/177759268-43853586-d9db-409a-bdcf-6c1ebd408e7a.png)
+
 - ### [Download Red Hat Enterprise Linux](https://developers.redhat.com/products/rhel/download) 
   > - Easy access to a more secure OS, larger ecosystem, and a broader selection of languages and developer tools on which to build and deploy apps in the hybrid cloud.
 
@@ -20,5 +22,8 @@
   > - Learn and experiment with Kubernetes and Red Hat OpenShift. Now. In your browser. For free.
   > - Access Red Hat’s products and technologies without setup or configuration, and start developing quicker than ever before with our new, no-cost sandbox environments for [Red Hat OpenShift](https://developers.redhat.com/products/openshift/overview) and [Red Hat OpenShift Dev Spaces (formerly Red Hat CodeReady Workspaces)](https://developers.redhat.com/products/openshift-dev-spaces/overview).
 
+
+- ### [Learn](https://developers.redhat.com/learn) 
+  > - No matter where you are in your software development career, from just starting, to re-training, to expert-level but needing a brush-up, the Red Hat Developer program can help with tutorials and learning.
 
 
