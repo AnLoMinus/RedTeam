@@ -18,6 +18,13 @@ RedTeam - Red Team Tools
 
 </div>
 
+- `TTP` - Tactics, Techniques and Procedures
+- `TI` - Threat Intelligence 
+- `CTI` - Cyber Threat Intelligence 
+- `ISAC` - Information and Sharing Analysis Centers 
+
+---
+
 - [ ] 1 Reconnaissance:
   - No identified TTPs, use internal team methodology
 - [ ] 2 Weaponization:
