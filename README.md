@@ -14,6 +14,36 @@ RedTeam - Red Team Tools
 
 </div>
 
+- [ ] 1 Reconnaissance:
+  - No identified TTPs, use internal team methodology
+- [ ] 2 Weaponization:
+  - Command and Scripting Interpreter
+    - PowerShell
+    - Python
+    - VBA
+    - Ruby
+    - Bash
+    - Shell
+  - User executed malicious attachments
+- [ ] 3 Delivery:
+  - Exploit Public-Facing Applications
+  - Spearphishing
+- [ ] 4 Exploitation:
+  - Registry modification
+  - Scheduled tasks
+  - Keylogging
+  - Credential dumping
+- [ ] 5 Installation:
+  - Ingress tool transfer
+  - Proxy usage
+- [ ] 6 Command & Control:
+  - Web protocols (HTTP/HTTPS)
+  - DNS
+  - Actions on Objectives
+  - Exfiltration over C2
+
+---
+
 - [ ] Determine required knowledge and skills
 - [ ] Identify and implement alternate methods for bridging knowledge gaps
 - [ ] Develop roles and responsibilities guide
