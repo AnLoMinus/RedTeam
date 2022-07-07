@@ -55,6 +55,17 @@ RedTeam - Red Team Tools
 
 ---
 
+| Cyber Kill Chain      	| MITRE ATT&CK                  	|
+|-----------------------	|-------------------------------	|
+| Recon                 	| Reconnaissance                	|
+| Weaponization         	| Execution                     	|
+| Delivery              	| Initial Access                	|
+| Exploitation          	| Initial Access                	|
+| Installation          	| Persistence / Defense Evasion 	|
+| Command & Control     	| Command and Control           	|
+| Actions on Objectives 	| Exfiltration / Impact         	|
+
+---
 - [ ] Determine required knowledge and skills
 - [ ] Identify and implement alternate methods for bridging knowledge gaps
 - [ ] Develop roles and responsibilities guide
