@@ -10,6 +10,8 @@ RedTeam - Red Team Tools
 
 # RED TEAM DEVELOPMENT CHECKLIST
 
+![image](https://user-images.githubusercontent.com/51442719/177810241-e04a0297-4627-4dcf-adb9-0c8dd2ce239c.png)
+
 </div>
 
 - [ ] Determine required knowledge and skills
