@@ -1,0 +1,15 @@
+RustScan|RustScan|RT_Reconnaissance|https://github.com/RustScan/RustScan|git|rust
+Amass|Amass|RT_Reconnaissance|https://github.com/OWASP/Amass|git|go,lua
+gitleaks|gitleaks|RT_Reconnaissance|https://github.com/zricethezav/gitleaks|git|go
+S3Scanner|S3Scanner|RT_Reconnaissance|https://github.com/sa7mon/S3Scanner|git|python
+cloud_enum|cloud_enum|RT_Reconnaissance|https://github.com/initstring/cloud_enum|git|python
+Recon-ng|Recon-ng|RT_Reconnaissance|https://github.com/lanmaster53/recon-ng|git|python,node,apache2
+buster|buster|RT_Reconnaissance|https://github.com/sham00n/buster|git|python
+linkedin2username|linkedin2username|RT_Reconnaissance|https://github.com/initstring/linkedin2username|git|python
+WitnessMe|WitnessMe|RT_Reconnaissance|https://github.com/byt3bl33d3r/WitnessMe|git|python,apache2
+pagodo|pagodo|RT_Reconnaissance|https://github.com/opsdisk/pagodo|git|python
+AttackSurfaceMapper|AttackSurfaceMapper|RT_Reconnaissance|https://github.com/superhedgy/AttackSurfaceMapper|git|python
+SpiderFoot|SpiderFoot|RT_Reconnaissance|https://github.com/smicallef/spiderfoot|git|python,node
+dnscan|dnscan|RT_Reconnaissance|https://github.com/rbsec/dnscan|git|python,docker
+spoofcheck|spoofcheck|RT_Reconnaissance|https://github.com/BishopFox/spoofcheck|git|python
+LinkedInt|LinkedInt|RT_Reconnaissance|https://github.com/vysecurity/LinkedInt|git|python

@@ -1,0 +1,11 @@
+Reconnaissance|RT_Reconnaissance
+Initial Access|RT_Initial_Access
+Delivery|RT_Delivery
+Situational Awareness|RT_Situational_Awareness
+Credential Dumping|RT_Credential_Dumping
+Privilege Escalation|RT_Privilege_Escalation
+Defense Evasion|RT_Defense_Evasion
+Persistence|RT_Persistence
+Lateral Movement|RT_Lateral_Movement
+Exfiltration|RT_Exfiltration
+Miscellaneous|RT_Miscellaneous
