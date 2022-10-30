@@ -1,7 +1,7 @@
 #!/bin/sh
 # Name : RedCore
-# Date : 13 April 2022
-# Description : RedCore is a tools Installer and Package Manager.
+# Date : 30 October 2022
+# Description : RedCore is a Red Team Tools Installer and Package Manager.
 # Define Colors Variables
 HacKingProColors(){
 ##############################################################################
